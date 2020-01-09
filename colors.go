@@ -1,7 +1,6 @@
-// Package colors contains color constants for various palettes
-
 package colorlab
 
+// Color constants for various popular palettes
 const (
 	SolarizedBase03  = "#002b36"
 	SolarizedBase02  = "#073642"
